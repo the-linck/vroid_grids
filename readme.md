@@ -1,4 +1,4 @@
-#VRoid Grids
+# VRoid Grids
 
 SVG Recreations of the texture grids used for models in VRoid Studio, created with Inskcape. Every part used by VRoid when reading textures is filled with the grids on the right position, every part no used is simply empty.
 
