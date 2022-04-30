@@ -21,6 +21,7 @@ Folder with the original .svg files, the main part of this project.
     Used for both skin textures and clothes that directly overlay the skin (like underwear).
     * **Tops**
         * T-Shirt.svg
+        * Mini_T-Shirt.svg
 * **previews**  
 Folder with .png previews of all SVGs.
 
@@ -69,6 +70,10 @@ Textures used to paint the back of the head.
     * Knees
 * Background  
 A bitmap screenshot of the VRoid body grid - used as a reference to create the grids.
+
+### Tops
+
+For this moment only layers for different grids are provided on tops.
 
 ## Exporting textures
 
