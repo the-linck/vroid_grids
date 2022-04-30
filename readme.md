@@ -13,10 +13,16 @@ The images area created atop of the full grids VRoid expects the user to import 
 
 Every file is divided into several layers, with layers for pre-built content (allows easily using colors, gradients or patterns), layers for grids (to create custom items aligned with VRoid grid) and groupping layers (to better focus on what you want to create/edit).
 
-This files compose this project:
+This files and folders compose this project:
 
-* Full Body.svg  
-Used for both skin textures and clothes that directly overlay the skin (like underwear).
+* **svg**  
+Folder with the original .svg files, the main part of this project.
+    * Full Body.svg  
+    Used for both skin textures and clothes that directly overlay the skin (like underwear).
+    * **Tops**
+        * T-Shirt.svg
+* **previews**  
+Folder with .png previews of all SVGs.
 
 ## Layers
 
