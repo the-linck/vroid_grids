@@ -22,6 +22,7 @@ Folder with the original .svg files, the main part of this project.
     * **Tops**
         * T-Shirt.svg
         * Mini_T-Shirt.svg
+        * Uniform_vest-short_sleeve.svg
 * **previews**  
 Folder with .png previews of all SVGs.
 
