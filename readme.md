@@ -20,9 +20,13 @@ Folder with the original .svg files, the main part of this project.
     * Full Body.svg  
     Used for both skin textures and clothes that directly overlay the skin (like underwear).
     * **Tops**
-        * T-Shirt.svg
+        * T-Shirt.svg  
+            _Used for: T-Shirt, Wide Collar T-Shirt, Wide Neck T-Shirt and Extra Short Sleeved T-Shirt_
         * Mini_T-Shirt.svg
-        * Uniform_vest-short_sleeve.svg
+        * Uniform_vest-short_sleeve.svg  
+            _Used for: Uniform Vest (Short Sleeve)_
+        * Uniform_vest-long_sleeve.svg  
+            _Used for: Uniform Vest_
 * **previews**  
 Folder with .png previews of all SVGs.
 
